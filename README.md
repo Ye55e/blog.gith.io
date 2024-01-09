@@ -1,2 +1,2 @@
-# blog.gith.ub.io
+# blog.gith.io
 Adriana-Yessena
